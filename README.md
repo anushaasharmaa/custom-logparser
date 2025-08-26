@@ -1,4 +1,4 @@
-# gui-logparser
+# CUSTOM LOG PARSER
 Log Parser – Cross-Platform Log Analysis Tool
 This is a GUI-based Python application designed to parse and filter logs from Windows Event Logs and file-based sources like Apache, IIS and custom text logs. It is tailored for cybersecurity analysts, SOC teams, students, and system administrators to rapidly extract insights from structured and unstructured log sources.
 
